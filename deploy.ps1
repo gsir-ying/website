@@ -30,8 +30,8 @@ git add .
 git status
 git commit -m $str_commit
 # git pull origin master --allow-unrelated-histories
-git push -f origin master
-# git push -u origin master
+# git push -f origin master
+git push -u origin master
 
 git remote remove origin
 git remote add origin git@github.com:gsir-ying/public.git
@@ -41,7 +41,7 @@ cd ../public
 git add .
 git status
 git commit -m $str_commit
-# git remote add origin git@github.com:gsir-ying/public.git
+git remote add origin git@github.com:gsir-ying/public.git
 # git pull origin master
 git push -f origin master
 cd ../website
