@@ -1,5 +1,4 @@
-baseURL = "gsir.top"
-#baseURL = "https://gsir-ying.github.io/public/"
+baseURL = "https://gsir.top"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Gsir"

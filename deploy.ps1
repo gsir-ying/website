@@ -21,7 +21,7 @@ hugo -d ../public
 # ssh -T git@github.com
 # git config --global user.name "gsir-ying"
 # git config --global user.email "1358092941@qq.com"
-# git inint
+# git init
 git remote remove origin
 git remote add origin git@github.com:gsir-ying/website.git
 
