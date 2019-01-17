@@ -22,7 +22,7 @@ weight:  10
 
 > - 个性签名：不要低估你的能力，不要高估你的毅力
 
-> - 个人博客：https://www.gsir.top
+> - 个人博客：http://gsir.top
 
 ## 博客内容
 
