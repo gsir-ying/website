@@ -1,4 +1,4 @@
-baseURL = "gsir.top"
+baseURL = "http://gsir.top"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Gsir"
