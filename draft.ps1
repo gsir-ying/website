@@ -26,6 +26,7 @@ $str_tittle
 ""                                             >> $str_tittle
 "> "                                           >> $str_tittle
 ""                                             >> $str_tittle
-"# "                                          >> $str_tittle
+"<!--more-->"                                  >> $str_tittle
+"# "                                           >> $str_tittle
 
 Move-Item $str_tittle '.\content\post'

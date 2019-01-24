@@ -10,6 +10,8 @@ author:      GSir
 
 > 介绍powershell的特性、IDE、常用语法。
 
+<!--more-->
+
 # 简介
 
 Windows Powershell 是运行在windows机器上实现系统和应用程序管理自动化的命令行脚本环境。可以把它看成是命令行提示符cmd.exe的扩充，不对，应当是颠覆。 powershell需要.NET环境的支持，同时支持.NET对象。微软之所以将Powershell 定位为Power，并不是夸大其词，因为它完全支持对象。其可读性，易用性，可以位居当前所有shell之首。 

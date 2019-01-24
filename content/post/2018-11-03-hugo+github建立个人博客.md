@@ -10,6 +10,7 @@ author:      GSir
 
 > 详细讲述如何使用hugo+github建立、生成、发布、维护个人静态博客。
 
+<!--more-->
 
 ## 01 git安装和使用
 

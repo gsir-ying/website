@@ -10,6 +10,8 @@ author:      GSir
 
 > 介绍如何在ubuntu系统安装使用powershell core
 
+<!--more-->
+
 # 安装
 
 ## 网址

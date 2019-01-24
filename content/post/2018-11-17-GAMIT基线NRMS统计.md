@@ -10,11 +10,13 @@ author:      GSir
 
 > GAMIT解算的o文件包含浮点解和固定解的NRMS，利用python脚本提取所有o文件的NRMS，输出到文件nrms.txt，以便后续分析。
 
+<!--more-->
+
 ## python代码
 
-```
-# python3.7
-# coding=utf-8
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #------------------------------------------------------------------------------
 # function: extract nrms from ofile
 # by:       Ren Yingying, Tongji Univerity
