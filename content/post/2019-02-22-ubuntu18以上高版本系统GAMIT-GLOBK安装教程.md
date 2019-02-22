@@ -108,4 +108,4 @@ export HELP_DIR=/opt/gamit10.70/help/
 sudo apt-get install gmt
 ```
 
-> 提示，图安装过程gmt或gcc等工具中提示错误，根据提示重新安装，如安装命令后加入"--fix-missing"。
+> 提示，如果安装gmt或gcc等工具中提示错误，根据提示重新安装，如安装命令后加入"--fix-missing"。
