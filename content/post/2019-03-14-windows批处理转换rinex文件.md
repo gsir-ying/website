@@ -15,3 +15,5 @@ for %i in (*.*d) do crx2rnx.exe %i
 
 #linux 大写转小写
 for file in `ls *o` ; do mv  $file `echo $file |  tr 'A-Z' 'a-z'`;done
+
+# awk printf 搭配格式化输出

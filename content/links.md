@@ -138,7 +138,7 @@ weight: 5
 
 - [大陆环境监测网络-CMONC](http://neiscn.org/)
 
-- [中国地震局GNSS数据产品服务平台](http://www.cgps.ac.cn/cgs/sitelistcors.jsp)
+- [中国地震局GNSS数据产品服务平台](http://www.cgps.ac.cn)
 
 - [北斗开放实验室](http://www.gnssopenlab.org/member.php?action=login)
 
