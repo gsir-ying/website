@@ -14,7 +14,7 @@ author:      GSir
 
 本博客基于hugo和github生成静态博客网页，快捷方便，推荐使用；主题源自even的修改；源文件使用Markdown和Latex标记语言；所生成的网页托管在github上。在此对所使用的开源组件表示感谢。
 
-首次访问本博客的读者可通过[关于](https://gsir-ying.github.io/public/about/)页面中了解博客的相关信息。
+首次访问本博客的读者可通过[关于](http://gsir.top/about/)页面中了解博客的相关信息。
 
 欢迎继续关注和支持GSir博客，也欢迎向本博客投稿。谢谢支持！
 

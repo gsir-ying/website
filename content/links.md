@@ -6,7 +6,7 @@ menu: main
 weight: 5
 ---
 
-> 常用链接和学习网址集合。[gnss常用数据下载](https://www.gsir.top/post/2018-12-04-GNSS%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E4%B8%8B%E8%BD%BD/)
+> 常用链接和学习网址集合。[gnss常用数据下载](http://gsir.top/post/2018-12-04-gnss常用数据下载/)
 
 # 编程
 
